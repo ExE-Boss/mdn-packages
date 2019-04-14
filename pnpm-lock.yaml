@@ -1,0 +1,15 @@
+importers:
+  .:
+    devDependencies:
+      prettier: 1.17.0
+    specifiers:
+      prettier: ^1.17.0
+lockfileVersion: 5
+packages:
+  /prettier/1.17.0:
+    dev: true
+    engines:
+      node: '>=4'
+    hasBin: true
+    resolution:
+      integrity: sha512-sXe5lSt2WQlCbydGETgfm1YBShgOX4HxQkFPvbxkcwgDvGDeqVau8h+12+lmSVlP3rHPz0oavfddSZg/q+Szjw==
