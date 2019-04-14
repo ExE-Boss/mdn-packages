@@ -1,8 +1,10 @@
 importers:
   .:
     devDependencies:
+      '@mdn/prettier-config': 'link:prettier-config'
       prettier: 1.17.0
     specifiers:
+      '@mdn/prettier-config': ^0.0.0
       prettier: ^1.17.0
 lockfileVersion: 5
 packages:

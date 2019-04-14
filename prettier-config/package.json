@@ -1,0 +1,28 @@
+{
+	"name": "@mdn/prettier-config",
+	"version": "0.0.0",
+	"description": "Standard MDN prettier configuration",
+	"author": "MDN Web Docs",
+	"license": "CC0-1.0",
+	"main": "index.json",
+
+	"keywords": [
+		"prettier",
+		"prettier-config",
+		"mdn",
+		"mozilla"
+	],
+
+	"homepage": "https://github.com/mdn/packages/blob/master/prettier-config#readme",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mdn/packages.git"
+	},
+	"bugs": {
+		"url": "https://github.com/mdn/packages/issues"
+	},
+
+	"peerDependencies": {
+		"prettier": ">= 1.17.0"
+	}
+}

@@ -5,3 +5,7 @@ MDN miscellaneous packages
 ==========================
 
 A collection of miscellaneous packages used by [@mdn](https://github.com/mdn) repositories.
+
+## Packages
+
+- [`@mdn/prettier-config`](./prettier-config)
