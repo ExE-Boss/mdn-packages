@@ -1,0 +1,15 @@
+# Logs
+*.log
+
+# Dependency directory
+node_modules
+
+# Unwanted OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
