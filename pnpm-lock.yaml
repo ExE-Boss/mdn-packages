@@ -2,16 +2,18 @@ importers:
   .:
     devDependencies:
       '@mdn/prettier-config': 'link:prettier-config'
-      prettier: 1.17.0
+      prettier: 2.0.5
     specifiers:
       '@mdn/prettier-config': ^0.0.0
-      prettier: ^1.17.0
-lockfileVersion: 5
+      prettier: ^2.0.0
+  prettier-config:
+    specifiers: {}
+lockfileVersion: 5.1
 packages:
-  /prettier/1.17.0:
+  /prettier/2.0.5:
     dev: true
     engines:
-      node: '>=4'
+      node: '>=10.13.0'
     hasBin: true
     resolution:
-      integrity: sha512-sXe5lSt2WQlCbydGETgfm1YBShgOX4HxQkFPvbxkcwgDvGDeqVau8h+12+lmSVlP3rHPz0oavfddSZg/q+Szjw==
+      integrity: sha512-7PtVymN48hGcO4fGjybyBSIWDsLU4H4XlvOHfq91pz9kkGlonzwTfYkaIEwiRg/dAJF9YlbsduBAgtYLi+8cFg==
